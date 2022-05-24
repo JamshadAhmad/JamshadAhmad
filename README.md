@@ -1,6 +1,4 @@
-Hello,
-
-I am a software engineer, with an interest in problem-solving. You can check [my repository](https://github.com/JamshadAhmad/Programming) which I made to practice problem-solving. 
+I have an interest in problem-solving. You can check [my repository](https://github.com/JamshadAhmad/Programming) that I made for practicing problem-solving. 
 
 Feel free to contact me for anything.
 
